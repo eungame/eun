@@ -9,7 +9,7 @@
           
 <body>
                       
-<h2>게임 장면 및 공략 모음사이트!<br>Page about game or music!</h2>
+<h2>게임 장면 및 공략 모음! 음악 제공<br>Page about game or music!</h2>
                       
 <p>아직 업로드 중</p>
                       
