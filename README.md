@@ -9,7 +9,7 @@
           
 <body>
                       
-<h2>게임 장면 및 공략 모음사이트!<br>Page about Huh Kyung young!</h2>
+<h2>게임 장면 및 공략 모음사이트!<br>Page about game or music!</h2>
                       
 <p>아직 업로드 중</p>
                       
@@ -18,7 +18,8 @@
 <h3>테일즈런너와 롤(리그 오브 레전드)의 게임 명장면을 보자!
 <br>Watch TalesRunner and League of Legends scene at YouTube video!</h3>
                       
-<a href="https://www.youtube.com/user/dmsdud95">모에겜뇽 게임채널 유튜브 연결하기(YouTube Link about 모에겜뇽 game channel)</a>                     
+<a href="https://www.youtube.com/user/dmsdud95">모에겜뇽 게임채널 유튜브 연결하기(YouTube Link about 모에겜뇽 game channel)</a> 
+<br>
 <a href="https://leagueoflegends.co.kr/">리그 오브 레전드(League of Legends) 홈페이지(Homepage of League of Legends)</a>                     
           
 </body>
