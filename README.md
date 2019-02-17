@@ -19,13 +19,13 @@ margin:3px; border-radius: 10px; transition:all 0.1s; text-shadow: 0px -1px rgba
 <p style="font-size:9px;">하단의 파란 버튼을 클릭하세요(click blue button below)</p>
 <a class="btn blue" href="https://www.youtube.com/watch?v=fsxaGLUBmek&t=5s" target="_blank">오투잼 플레이영상 보기</a>
 
-
+<br>
 <p style="font-size:16px;"><b>테일즈런너&리그오브레전드 플레이 장면 모음채널</b>
 <p style="font-size:11px;"><b>TalesRunner and League of Legends game playing YouTube channel</b>
 <p style="font-size:9px;">하단의 파란 버튼을 클릭하세요(click blue button below)</p>
 <a class="btn blue" href="https://www.youtube.com/user/dmsdud95" target="_blank">모에겜뇽 게임채널 들어가기</a>
-
-<p style="font-size:16px;"><b>테일즈런너&리그오브레전드 공식 홈페이지 들어가기</b>
+<br>
+<p style="font-size:16px;"><b>테일즈런너&리그오브레전드 공식 홈페이지</b>
 <p style="font-size:11px;"><b>Official homepage of League of Legends, TalesRunner</b>
 <p style="font-size:9px;">하단의 파란 버튼을 클릭하세요(click blue button below)</p>
 <a class="btn blue" href="https://leagueoflegends.co.kr/" target="_blank">리그오브레전드(League of Legends)</a>
