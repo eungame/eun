@@ -1,4 +1,4 @@
-# eun's game channel
+# 게임 속 명장면 및 공략 모음 사이트★ Page about game or music!
 <html>
 
 <head>
@@ -12,8 +12,6 @@ margin:10px; display:inline-block; border-radius: 10px; transition:all 0.1s; tex
 </head>
 <body>
 <body background="배경수정.png">                     
-
-<h1>게임 속 명장면 및 공략 모음 사이트★ Page about game or music!</h1>
 <audio src="게임채널 배경음악.mp3" controls autoplay></audio>
 <h3>하단에 '오투잼 플레이영상 보기' 파란색 버튼을 클릭하시면 오투잼 곡 '꿈속의 신부'를 플레이한 장면 영상을 시청할 수 있습니다
 <br>(You can watch o2jam song 'Bride in Dream' playing video if you click blue button below)</h3>
