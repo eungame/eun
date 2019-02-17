@@ -1,4 +1,4 @@
-# 게임 속 명장면 및 공략 모음 사이트★ Page about game or music!
+# 게임 플레이 장면 모음★
 <html>
 
 <head>
