@@ -13,7 +13,7 @@ margin:3px; border-radius: 10px; transition:all 0.1s; text-shadow: 0px -1px rgba
 <body>
 <body background="배경수정.png">                     
 
-<audio src="매우매우아름답고환상적인나라.mp3" controls autoplay></audio>
+<audio src="게임채널 배경음악.mp3" controls autoplay></audio>
 <p style="font-size:16px;"><b>오투잼 곡 '꿈속의 신부' 플레이 영상 보기</b>
 <p style="font-size:11px;"><b>O2jam song 'Bride in Dream' playing video</b>
 <p style="font-size:9px;">하단의 파란 버튼을 클릭하세요(click blue button below)</p>
