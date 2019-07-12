@@ -55,7 +55,7 @@
 <br>↑↑싱글 오투잼 꿈속의 신부 플레이영상</b><br>
 
 <b>▼컴퓨터 프로그래밍 교육사이트▼
-<ol><b><font color="red">본인이 애정하는 게임사 홈페이지 링크공유</font></b>
+<ol><b><font color="red">추천하는 컴퓨터 프로그래밍 교육사이트 링크공유</font></b>
 <li><a href="https://wikidocs.net/book/1657" target="_blank" align="left">(파이썬)python 배우기![클릭(click)]</a>
 <li><a href="https://www.youtube.com/user/egoing2" target="_blank" align="left">생활코딩 유튜브채널 바로가기(computer programming education videos)[클릭(click)]</a>
 
