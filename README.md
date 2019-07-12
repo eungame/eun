@@ -35,14 +35,17 @@
 </tbody>
 
 <tfoot>
-<tr align="left" height="100">
- <td width=20% bgcolor=#FFB6C1><b>컴퓨터 프로그래밍 교육사이트▶▶</b></td>
- <td colspan="4" bgcolor=#FFB6C1>
-<ol><b><font color="red">추천하는 컴퓨터 프로그래밍 교육사이트 링크공유</font></b></b>
-<li><a href="https://wikidocs.net/book/1657" target="_blank" align="left">(파이썬)python 배우기![클릭(click)]</a>
-<li><a href="https://www.youtube.com/user/egoing2" target="_blank" align="left">생활코딩 유튜브채널 바로가기(computer programming education videos)[클릭(click)]</a>
-</ol></td>
+
+<tr style="height=50px;">
+<td style="padding-left: 5px; padding-right: 5px; border-top: none; border-left: none; border-bottom: none; border-right: none; bgcolor:#FFB6C1;"><a href="https://m.post.naver.com/viewer/postView.nhn?volumeNo=18073606&memberNo=8626508&vType=VERTICAL" target="_blank"><font color="black">컴퓨터 프로그래밍 교육사이트▶▶</b></font></a></td>
+<td colspan="4" style="padding-left: 5px; padding-right: 5px; border-top: none; border-left: none; border-bottom: none; border-right: none; bgcolor:#FFB6C1;"><a href="http://tr.game.onstove.com/index.asp" target="_blank">
+ <font color="black"><ol><b><font color="red">추천하는 컴퓨터 프로그래밍 교육사이트 링크공유</font></b>
+<li><a href="https://wikidocs.net/book/1657" target="_blank" align="left">(파이썬)python 배우기![클릭(click)]</a></li>
+<li><a href="https://www.youtube.com/user/egoing2" target="_blank" align="left">생활코딩 유튜브채널 바로가기(computer programming education videos)[클릭(click)]</a></li>
+</ol>
+</td>
 </tr>
+
 </tfoot>
 
 </table>
