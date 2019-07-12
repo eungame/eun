@@ -11,7 +11,7 @@
  
 <thead>
 
-<tr>
+<tr style="height=21px;">
 <th bgcolor=#FFB6C1><a href="https://m.post.naver.com/viewer/postView.nhn?volumeNo=18073606&memberNo=8626508&vType=VERTICAL" target="_blank"><font color="black"><b>오투잼(o2jam)</b></font></a></th>
 <th bgcolor=#FFB6C1><a href="http://tr.game.onstove.com/index.asp" target="_blank"><font color="black"><b>테일즈런너(TalesRunner)</b></font></a></th>
 <th bgcolor=#FFB6C1><a href="https://leagueoflegends.co.kr/" target="_blank"><font color="black"><b>리그오브레전드(League of Legends)</b></font></a></th>
