@@ -9,7 +9,7 @@
               
 <table width="800" height="1000" align="center" cellpadding="20" cellspacing="10">
  
-<thead>
+
 
 <tr style="height=50px;">
 <td style="padding-left: 5px; padding-right: 5px; border-top: none; border-left: none; border-bottom: none; border-right: none; bgcolor:#FFB6C1;"><a href="https://m.post.naver.com/viewer/postView.nhn?volumeNo=18073606&memberNo=8626508&vType=VERTICAL" target="_blank"><font color="black"><b>오투잼(o2jam)</b></font></a></td>
@@ -19,9 +19,9 @@
 <td style="padding-left: 5px; padding-right: 5px; border-top: none; border-left: none; border-bottom: none; border-right: none; bgcolor:#FFB6C1;"><a href="https://www.sectiong.net/107" target="_blank"><font color="black"><b>싱글오투잼(오투매니아) 파일공유</b></font></a></td>
 </tr>
 
-</thead>
 
-<tbody>
+
+
 
 <tr  height="400">
  <td colspan="5" align="left" style="filter:alpha(opacity=100);><b>최근 본인의 플레이 영상 업뎃!<br>
@@ -32,9 +32,9 @@
 </td>
 </tr>
 
-</tbody>
 
-<tfoot>
+
+
 
 <tr style="height=50px;">
 <td style="padding-left: 5px; padding-right: 5px; border-top: none; border-left: none; border-bottom: none; border-right: none; bgcolor:#FFB6C1;"><a href="https://m.post.naver.com/viewer/postView.nhn?volumeNo=18073606&memberNo=8626508&vType=VERTICAL" target="_blank"><font color="black">컴퓨터 프로그래밍 교육사이트▶▶</b></font></a></td>
@@ -46,7 +46,7 @@
 </td>
 </tr>
 
-</tfoot>
+
 
 </table>
 
