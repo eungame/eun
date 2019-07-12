@@ -58,10 +58,5 @@
 <ol><b><font color="red">본인이 애정하는 게임사 홈페이지 링크공유</font></b>
 <li><a href="https://wikidocs.net/book/1657" target="_blank" align="left">(파이썬)python 배우기!</a>
 <li><a href="https://www.youtube.com/user/egoing2" target="_blank" align="left">생활코딩 유튜브채널 바로가기(computer programming education videos)</a>
-</ol>
 
-
-</body>
-
-</html>
 
