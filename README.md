@@ -41,11 +41,11 @@
 <audio src="게임채널 배경음악.mp3" controls autoplay></audio>
               
 <br>다음의 빨간 버튼을 클릭하시면 해당 사이트로 이동합니다<br>
-<a class="btn red" href="http://genebank.rda.go.kr/" target="_blank">오투잼(o2jam)</a>
-<a class="btn red" href="http://tr.game.onstove.com/index.asp" target="_blank">테일즈런너(TalesRunner)</a>
-<a class="btn red" href="https://leagueoflegends.co.kr/" target="_blank">리그오브레전드(League of Legends)</a><br>
-<a class="btn red" href="https://www.youtube.com/watch?v=NpyrcXYPiM4&list=PLw12emVrmPC_GWfSMc9JUkDJDZBDPaklF" target="_blank">오투잼 음악 리스트(Songs of O2jam)</a>
-<a class="btn red" href="https://www.sectiong.net/107" target="_blank">싱글오투잼(오투매니아) 파일공유</a><br>
+<a class="btn red" href="http://genebank.rda.go.kr/" target="_blank"><b>오투잼(o2jam)</b></a>
+<a class="btn red" href="http://tr.game.onstove.com/index.asp" target="_blank"><b>테일즈런너(TalesRunner)</b></a>
+<a class="btn red" href="https://leagueoflegends.co.kr/" target="_blank"><b>리그오브레전드(League of Legends)</b></a><br>
+<a class="btn red" href="https://www.youtube.com/watch?v=NpyrcXYPiM4&list=PLw12emVrmPC_GWfSMc9JUkDJDZBDPaklF" target="_blank"><b>오투잼 음악 리스트(Songs of O2jam)</b></a>
+<a class="btn red" href="https://www.sectiong.net/107" target="_blank"><b>싱글오투잼(오투매니아) 파일공유</b></a><br>
 
 
 <b>최근 본인의 플레이 영상 업뎃!<br>
