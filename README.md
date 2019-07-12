@@ -21,6 +21,7 @@
 </thead>
 
 <tbody>
+ <style="filter:alpha(opacity=100);">
 <tr  height="400">
  <td colspan="5" align="left"><b>최근 본인의 플레이 영상 업뎃!<br>
 <iframe width="600" height="300" src="https://www.youtube.com/embed/PQveqCcqvLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -29,6 +30,7 @@
 <br>↑↑싱글 오투잼 꿈속의 신부 플레이영상</b></a>
 </td>
 </tr>
+</style>
 </tbody>
 
 <tfoot>
