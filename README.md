@@ -12,7 +12,7 @@
 <thead>
 
 <tr style="height=21px;">
-<td style="padding-left: 5px; padding-right: 5px; border-top: none; border-left: none; border-bottom: none; border-right: none; bgcolor:#FFB6C1"><a href="https://m.post.naver.com/viewer/postView.nhn?volumeNo=18073606&memberNo=8626508&vType=VERTICAL" target="_blank"><font color="black"><b>오투잼(o2jam)</b></font></a></td>
+<td style="padding-left: 5px; padding-right: 5px; border-top: none; border-left: none; border-bottom: none; border-right: none; bgcolor:#FFB6C1;"><a href="https://m.post.naver.com/viewer/postView.nhn?volumeNo=18073606&memberNo=8626508&vType=VERTICAL" target="_blank"><font color="black"><b>오투잼(o2jam)</b></font></a></td>
 <th bgcolor=#FFB6C1><a href="http://tr.game.onstove.com/index.asp" target="_blank"><font color="black"><b>테일즈런너(TalesRunner)</b></font></a></th>
 <th bgcolor=#FFB6C1><a href="https://leagueoflegends.co.kr/" target="_blank"><font color="black"><b>리그오브레전드(League of Legends)</b></font></a></th>
 <th bgcolor=#FFB6C1><a href="https://www.youtube.com/watch?v=NpyrcXYPiM4&list=PLw12emVrmPC_GWfSMc9JUkDJDZBDPaklF" target="_blank"><font color="black"><b>오투잼 음악 리스트(Songs of O2jam)</b></font></a></th>
