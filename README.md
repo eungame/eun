@@ -40,7 +40,7 @@
  
 <audio src="게임채널 배경음악.mp3" controls autoplay></audio>
               
-<br>다음의 빨간 버튼을 클릭하시면 해당 사이트로 이동합니다<br>
+<br>다음의 빨간 버튼을 클릭하시면 해당 사이트로 이동합니다<br><br>
 <a class="btn red" href="http://genebank.rda.go.kr/" target="_blank">오투잼(o2jam)</a>
 <a class="btn red" href="http://tr.game.onstove.com/index.asp" target="_blank">테일즈런너(TalesRunner)</a>
 <a class="btn red" href="https://leagueoflegends.co.kr/" target="_blank">리그오브레전드(League of Legends)</a><br>
