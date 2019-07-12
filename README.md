@@ -2,12 +2,22 @@
 
 <head>
  <meta charset="UTF-8">
+ <style>
+  MainTable {
+    width: 100%;
+    background-color: #D8F0DA;
+    border: 1px;
+    min-width: 100%;
+    position: relative;
+    opacity: 0.97;
+    background: transparent;
+}
 </head>
 
 <body>
 <body background="배경수정.png">       
               
-<table width="800" height="1000" align="center" cellpadding="20" cellspacing="10">
+<table id="MainTable" width="800" height="1000" align="center" cellpadding="20" cellspacing="10">
  
 
 
