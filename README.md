@@ -74,6 +74,4 @@
 
 </table>
 
-</body>
 
-</html>
