@@ -7,16 +7,16 @@
 <body>
 <body background="배경수정.png">       
               
-<table width="1000" height="1000" align="center" cellspacing="20" cellpadding="20">
+<table width="1000" height="1000" align="center" cellpadding="20" cellspacing="10">
  
 <thead>
 
 <tr>
-<th width=20% height=2% bgcolor=#FFB6C1><a href="https://m.post.naver.com/viewer/postView.nhn?volumeNo=18073606&memberNo=8626508&vType=VERTICAL" target="_blank"><b>오투잼(o2jam)</b></a></th>
-<th width=20% height=2% bgcolor=#FFB6C1><a href="http://tr.game.onstove.com/index.asp" target="_blank"><b>테일즈런너(TalesRunner)</b></a></th>
-<th width=20% height=2% bgcolor=#FFB6C1><a href="https://leagueoflegends.co.kr/" target="_blank"><font color="white"><b>리그오브레전드(League of Legends)</b></font></a></th>
-<th width=20% height=2% bgcolor=#FFB6C1><a href="https://www.youtube.com/watch?v=NpyrcXYPiM4&list=PLw12emVrmPC_GWfSMc9JUkDJDZBDPaklF" target="_blank"><font color="white"><b>오투잼 음악 리스트(Songs of O2jam)</b></font></a></th>
-<th width=20% height=2% bgcolor=#FFB6C1><a href="https://www.sectiong.net/107" target="_blank"><font color="white"><b>싱글오투잼(오투매니아) 파일공유</b></font></a></th>
+<th width="20%" height="2%" bgcolor=#FFB6C1><a href="https://m.post.naver.com/viewer/postView.nhn?volumeNo=18073606&memberNo=8626508&vType=VERTICAL" target="_blank"><font color="black"><b>오투잼(o2jam)</b></font></a></th>
+<th width="20%" height="2%" bgcolor=#FFB6C1><a href="http://tr.game.onstove.com/index.asp" target="_blank"><font color="black"><b>테일즈런너(TalesRunner)</b></font></a></th>
+<th width="20%" height="2%" bgcolor=#FFB6C1><a href="https://leagueoflegends.co.kr/" target="_blank"><font color="black"><b>리그오브레전드(League of Legends)</b></font></a></th>
+<th width="20%" height="2%" bgcolor=#FFB6C1><a href="https://www.youtube.com/watch?v=NpyrcXYPiM4&list=PLw12emVrmPC_GWfSMc9JUkDJDZBDPaklF" target="_blank"><font color="black"><b>오투잼 음악 리스트(Songs of O2jam)</b></font></a></th>
+<th width="20%" height="2%" bgcolor=#FFB6C1><a href="https://www.sectiong.net/107" target="_blank"><font color="black"><b>싱글오투잼(오투매니아) 파일공유</b></font></a></th>
 </tr>
 </thead>
 
@@ -40,6 +40,8 @@
 <li><a href="https://www.youtube.com/user/egoing2" target="_blank" align="left">생활코딩 유튜브채널 바로가기(computer programming education videos)[클릭(click)]</a>
 </ol></td>
 </tr>
+</tfoot>
+
 </table>
 
 </body>
