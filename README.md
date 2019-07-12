@@ -59,4 +59,15 @@
 <li><a href="https://wikidocs.net/book/1657" target="_blank" align="left">(파이썬)python 배우기![클릭(click)]</a>
 <li><a href="https://www.youtube.com/user/egoing2" target="_blank" align="left">생활코딩 유튜브채널 바로가기(computer programming education videos)[클릭(click)]</a>
 
+<table border="1">
+ <tr>
+  <td>이름</td> <td>성별</td>
+ </tr>
+ <tr>
+  <td>최진혁</td> <td>남</td>
+ </tr>
+ <tr>
+  <td>최유빈</td> <td>여</td>
+ </tr>
+</table>
 
