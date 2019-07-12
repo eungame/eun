@@ -7,7 +7,7 @@
 <body>
 <body background="배경수정.png">       
               
-<table style="background-color:rgba(0, 0, 0, 0); width="800" height="1000" align="center" cellpadding="20" cellspacing="10">
+<table width="800" height="1000" align="center" cellpadding="20" cellspacing="10">
  
 
 
@@ -24,7 +24,7 @@
 
 
 <tr  height="400">
- <td style="background-color:rgba(0, 0, 0, 0); colspan="5"><b>최근 본인의 플레이 영상 업뎃!<br>
+ <td colspan="5"><b>최근 본인의 플레이 영상 업뎃!<br>
 <iframe width="600" height="300" src="https://www.youtube.com/embed/PQveqCcqvLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>↑↑테일즈런너 신맵 '광대 퍼레이드' 2분 4초 완주(Tales Runner)
 <iframe width="600" height="300" src="https://www.youtube.com/embed/fsxaGLUBmek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
