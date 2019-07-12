@@ -1,4 +1,3 @@
-# ^ㅇ^
 <html>
 
 <head>
@@ -37,10 +36,9 @@
 </head>
 
 <body>
-<body background="배경수정.png">                     
-
-<audio src="게임채널 배경음악.mp3" controls autoplay></audio>
-  <table border=1 width=1000 height=1000 align="center" cellspacing=20 cellpadding=20 >
+<body background="배경수정.png">       
+              
+<table border=1 width=1000 height=1000 align="center" cellspacing=20 cellpadding=20 >
  
 <tr height=150>
  <td width=20% height=2% bgcolor=pink align="center"><a class="btn red" href="http://genebank.rda.go.kr/" target="_blank">오투잼(o2jam)</a></td>
@@ -72,3 +70,4 @@
 </body>
 
 </html>
+
