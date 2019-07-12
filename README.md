@@ -52,7 +52,7 @@
 <iframe width="600" height="300" src="https://www.youtube.com/embed/PQveqCcqvLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>↑↑테일즈런너 신맵 '광대 퍼레이드' 2분 4초 완주(Tales Runner)
 <iframe width="600" height="300" src="https://www.youtube.com/embed/fsxaGLUBmek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>↑↑싱글 오투잼 꿈속의 신부 플레이영상</b>
+<br>↑↑싱글 오투잼 꿈속의 신부 플레이영상</b><br>
 
 <b>▼컴퓨터 프로그래밍 교육사이트▼
 <ol><b><font color="red">본인이 애정하는 게임사 홈페이지 링크공유</font></b>
