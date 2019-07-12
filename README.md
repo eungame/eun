@@ -37,7 +37,9 @@
 </head>
 
 <body>
+<body background="배경수정.png">                     
 
+<audio src="게임채널 배경음악.mp3" controls autoplay></audio>
   <table border=1 width=1000 height=1000 align="center" cellspacing=20 cellpadding=20 >
  
 <tr height=150>
