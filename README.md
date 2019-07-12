@@ -22,16 +22,16 @@
 </thead>
 
 <tbody>
- <style="filter:alpha(opacity=100);">
+
 <tr  height="400">
- <td colspan="5" align="left"><b>최근 본인의 플레이 영상 업뎃!<br>
+ <td colspan="5" align="left" style="filter:alpha(opacity=100);><b>최근 본인의 플레이 영상 업뎃!<br>
 <iframe width="600" height="300" src="https://www.youtube.com/embed/PQveqCcqvLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>↑↑테일즈런너 신맵 '광대 퍼레이드' 2분 4초 완주(Tales Runner)</a>
 <iframe width="600" height="300" src="https://www.youtube.com/embed/fsxaGLUBmek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>↑↑싱글 오투잼 꿈속의 신부 플레이영상</b></a>
 </td>
 </tr>
-</style>
+
 </tbody>
 
 <tfoot>
