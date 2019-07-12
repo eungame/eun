@@ -12,6 +12,7 @@
     opacity: 0.97;
     background: transparent;
 }
+ </style>
 </head>
 
 <body>
