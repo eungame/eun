@@ -5,8 +5,8 @@
  <style>
  .list{padding-left: 5px; padding-right: 5px; border-top: none; border-left: none; border-bottom: none; border-right: none;}
  #only{padding-left: 2px; padding-right: 2px; border-top: none; border-left: none; border-bottom: none; border-right: none;}
- #id{color:red;}
- #id{color:black;}
+ #red{color:red;}
+ #black{color:black;}
  </style>
 </head>
 
@@ -20,13 +20,13 @@
 <td class="list" id="only">
   <a href="https://m.post.naver.com/viewer/postView.nhn?volumeNo=18073606&memberNo=8626508&vType=VERTICAL" target="_blank"> </a></td>
 <td class="list">
-  <a href="http://tr.game.onstove.com/index.asp" target="_blank"><font color="black"><b>테일즈런너(TalesRunner)</b></font></a></td>
+  <a href="http://tr.game.onstove.com/index.asp" target="_blank" id="black"><b>테일즈런너(TalesRunner)</b></a></td>
 <td class="list">
-  <a href="https://leagueoflegends.co.kr/" target="_blank"><font color="black"><b>리그오브레전드(League of Legends)</b></font></a></td>
+  <a href="https://leagueoflegends.co.kr/" target="_blank" id="black"><b>리그오브레전드(League of Legends)</b></a></td>
 <td class="list">
-  <a href="https://www.youtube.com/watch?v=NpyrcXYPiM4&list=PLw12emVrmPC_GWfSMc9JUkDJDZBDPaklF" target="_blank"><font color="black"><b>오투잼 음악 리스트(Songs of O2jam)</b></font></a></td>
+  <a href="https://www.youtube.com/watch?v=NpyrcXYPiM4&list=PLw12emVrmPC_GWfSMc9JUkDJDZBDPaklF" target="_blank" id="black"><b>오투잼 음악 리스트(Songs of O2jam)</b></font></a></td>
 <td class="list">
-  <a href="https://www.sectiong.net/107" target="_blank"><font color="black"><b>싱글오투잼(오투매니아) 파일공유</b></font></a></td>
+  <a href="https://www.sectiong.net/107" target="_blank" id="black"><b>싱글오투잼(오투매니아) 파일공유</b></a></td>
 </tr>
 
 
@@ -48,4 +48,3 @@
 <td colspan="4" class="list">
 <li><a href="https://wikidocs.net/book/1657" target="_blank" align="left" id="red">(파이썬)python 배우기![클릭(click)]</a></li>
 <li><a href="https://www.youtube.com/user/egoing2" target="_blank" align="left" id="red">생활코딩 유튜브채널 바로가기(computer programming education videos)[클릭(click)]</a></li>
-</ol>
