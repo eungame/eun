@@ -31,7 +31,7 @@
 
 
 
-<tr height="400">
+<tr height="400" style="background:transparent;">
   <td> 목차 생성중 </td>
  <td style="background:transparent;" colspan="4"><b>최근 본인의 플레이 영상 업뎃!<br>
 <iframe width="600" height="300" src="https://www.youtube.com/embed/PQveqCcqvLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
