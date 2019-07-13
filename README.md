@@ -13,10 +13,10 @@
 
 <tr style="height=50px;">
 <td style="padding-left: 2px; padding-right: 2px; border-top: none; border-left: none; border-bottom: none; border-right: none; "><a href="https://m.post.naver.com/viewer/postView.nhn?volumeNo=18073606&memberNo=8626508&vType=VERTICAL" target="_blank"><font color="black"><b>오투잼(o2jam)</b></font></a></td>
-<td style="background:transparent;padding-left: 5px; padding-right: 5px; border-top: none; border-left: none; border-bottom: none; border-right: none; bgcolor:#FFB6C1;"><a href="http://tr.game.onstove.com/index.asp" target="_blank"><font color="black"><b>테일즈런너(TalesRunner)</b></font></a></td>
-<td style="padding-left: 5px; padding-right: 5px; border-top: none; border-left: none; border-bottom: none; border-right: none; bgcolor:#FFB6C1;"><a href="https://leagueoflegends.co.kr/" target="_blank"><font color="black"><b>리그오브레전드(League of Legends)</b></font></a></td>
-<td style="padding-left: 5px; padding-right: 5px; border-top: none; border-left: none; border-bottom: none; border-right: none; bgcolor:#FFB6C1;"><a href="https://www.youtube.com/watch?v=NpyrcXYPiM4&list=PLw12emVrmPC_GWfSMc9JUkDJDZBDPaklF" target="_blank"><font color="black"><b>오투잼 음악 리스트(Songs of O2jam)</b></font></a></td>
-<td style="padding-left: 5px; padding-right: 5px; border-top: none; border-left: none; border-bottom: none; border-right: none; bgcolor:#FFB6C1;"><a href="https://www.sectiong.net/107" target="_blank"><font color="black"><b>싱글오투잼(오투매니아) 파일공유</b></font></a></td>
+<td style="padding-left: 5px; padding-right: 5px; border-top: none; border-left: none; border-bottom: none; border-right: none;"><a href="http://tr.game.onstove.com/index.asp" target="_blank"><font color="black"><b>테일즈런너(TalesRunner)</b></font></a></td>
+<td style="padding-left: 5px; padding-right: 5px; border-top: none; border-left: none; border-bottom: none; border-right: none;"><a href="https://leagueoflegends.co.kr/" target="_blank"><font color="black"><b>리그오브레전드(League of Legends)</b></font></a></td>
+<td style="padding-left: 5px; padding-right: 5px; border-top: none; border-left: none; border-bottom: none; border-right: none;"><a href="https://www.youtube.com/watch?v=NpyrcXYPiM4&list=PLw12emVrmPC_GWfSMc9JUkDJDZBDPaklF" target="_blank"><font color="black"><b>오투잼 음악 리스트(Songs of O2jam)</b></font></a></td>
+<td style="padding-left: 5px; padding-right: 5px; border-top: none; border-left: none; border-bottom: none; border-right: none;"><a href="https://www.sectiong.net/107" target="_blank"><font color="black"><b>싱글오투잼(오투매니아) 파일공유</b></font></a></td>
 </tr>
 
 
@@ -24,7 +24,7 @@
 
 
 <tr height="400">
- <td colspan="5" style="background:transparent;"><b>최근 본인의 플레이 영상 업뎃!<br>
+ <td style="background:transparent;" colspan="5"><b>최근 본인의 플레이 영상 업뎃!<br>
 <iframe width="600" height="300" src="https://www.youtube.com/embed/PQveqCcqvLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>↑↑테일즈런너 신맵 '광대 퍼레이드' 2분 4초 완주(Tales Runner)
 <iframe width="600" height="300" src="https://www.youtube.com/embed/fsxaGLUBmek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
