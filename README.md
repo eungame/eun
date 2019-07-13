@@ -23,7 +23,7 @@
 
 
 
-<tr height="400" style="background-color:transparent;>
+<tr height="400" style="background-color:transparent;">
  <td style="background-color:transparent;" colspan="5"><b>최근 본인의 플레이 영상 업뎃!<br>
 <iframe width="600" height="300" src="https://www.youtube.com/embed/PQveqCcqvLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>↑↑테일즈런너 신맵 '광대 퍼레이드' 2분 4초 완주(Tales Runner)
