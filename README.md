@@ -7,7 +7,7 @@
  #only{padding-left: 2px; padding-right: 2px; border:none;}
  #red{color:red;}
  #black{color:black;}
- .transparent{background-color:transparent}
+ #transparent{background-color:transparent;}
  </style>
 </head>
 
@@ -32,9 +32,9 @@
 
 
 
-<tr height="400" class="transparent">
-  <td class="list"> 목차 생성중 </td>
- <td style="background:transparent;" colspan="4" class="list"><b>최근 본인의 플레이 영상 업뎃!<br>
+<tr height="400" id="transparent">
+  <td class="list" id="transparent"> 목차 생성중 </td>
+ <td id="transparent" colspan="4" class="list"><b>최근 본인의 플레이 영상 업뎃!<br>
 <iframe width="600" height="300" src="https://www.youtube.com/embed/PQveqCcqvLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>↑↑테일즈런너 신맵 '광대 퍼레이드' 2분 4초 완주(Tales Runner)
 <iframe width="600" height="300" src="https://www.youtube.com/embed/fsxaGLUBmek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
