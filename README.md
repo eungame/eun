@@ -18,7 +18,7 @@
 
 <tr style="height=50px;">
 <td class="list" id="only">
-  <a href="https://m.post.naver.com/viewer/postView.nhn?volumeNo=18073606&memberNo=8626508&vType=VERTICAL" target="_blank"><font color="black"><b>오투잼(o2jam)</b></font></a></td>
+  <a href="https://m.post.naver.com/viewer/postView.nhn?volumeNo=18073606&memberNo=8626508&vType=VERTICAL" target="_blank"> </a></td>
 <td class="list">
   <a href="http://tr.game.onstove.com/index.asp" target="_blank"><font color="black"><b>테일즈런너(TalesRunner)</b></font></a></td>
 <td class="list">
