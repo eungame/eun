@@ -17,7 +17,7 @@
 <body>
 <body background="배경수정.png">
 <br>
-<table width="800" height="1000" align="center" cellpadding="20" cellspacing="10">
+<table width="800" height="1000" align="center" cellpadding="20" cellspacing="10" style="border-spacing: 5px;">
 
 
 <tr style="height=50px;" class="list" id="transparent">
