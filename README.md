@@ -4,7 +4,7 @@
  <meta charset="UTF-8">
  <style>
  .list{padding-left: 5px; padding-right: 5px; margin:10px; border:3px outset silver; border-radius: 20px/20px;}
- #only{padding-left: 2px; padding-right: 2px; margin:10px; border:none;}
+ #only{padding-left: 2px; padding-right: 2px; margin:10px; border:none; background-color:transparent;}
  #red{color:red;}
  #black{color:black;}
  #white{color:white;}
@@ -21,7 +21,7 @@
 
 
 <tr style="height=50px;" class="list" id="transparent">
- <td style="border:transparent;" id="transparent"> </td>
+ <td id="only"> </td>
 <td class="list" id="tomatobackground">
   <a href="http://tr.game.onstove.com/index.asp" target="_blank" id="white"><b>테일즈런너(TalesRunner)</b></a></td>
 <td class="list" id="tomatobackground">
