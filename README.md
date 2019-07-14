@@ -82,7 +82,7 @@ table{border-spacing: 10px 10px;}
 <tr style="height=50px;" class="list">
  
 <td class="list" id="tomatobackground">
-<a id="white"><b>컴퓨터 프로그래밍 교육사이트 링크연결(computer programming education site go)▶▶</b></a></td>
+<a id="white"><b>프로그래밍 교육사이트 링크연결(computer programming education site go)▶▶</b></a></td>
 
 <td colspan="4" class="list" id="tomatobackground">
  
