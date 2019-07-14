@@ -20,9 +20,9 @@ table{border-spacing: 10px 10px;}
 <body>
 <body background="배경수정.png">
 <br>
-<table width="800" height="1000" align="center" cellpadding="20" cellspacing="10">
+<table width="800" height="1000" cellpadding="20" cellspacing="10">
 
-<tr style="height=50px;" class="list" id="transparent">
+<tr style="height=50px;" class="list" id="transparent" align="center">
  <td id="only"> </td>
 <td class="list" id="tomatobackground">
   <a href="http://tr.game.onstove.com/index.asp" target="_blank" id="white"><b>테일즈런너(TalesRunner)</b></a></td>
