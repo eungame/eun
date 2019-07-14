@@ -4,8 +4,8 @@
  <meta charset="UTF-8">
  <style>
 table{border-spacing: 10px;}
- .list{padding-left: 5px; padding-right: 5px; margin:10px; border:1px outset orangered; border-radius: 20px/20px;}
- #only{padding-left: 2px; padding-right: 2px; margin:10px; border:3px outset transparent; border-radius: 20px/20px; background-color:transparent;}
+ .list{padding-left: 5px; padding-right: 5px; margin:10px; border:1px solid tomato; border-radius: 20px/20px;}
+ #only{padding-left: 2px; padding-right: 2px; margin:10px; border:3px solid transparent; border-radius: 20px/20px; background-color:transparent;}
  #red{color:red;}
  #black{color:black;}
  #white{color:white;}
@@ -44,7 +44,6 @@ table{border-spacing: 10px;}
 <br>↑↑싱글 오투잼 꿈속의 신부 플레이영상</b>
 </td>
 </tr>
-
 
 
 <tr style="height=50px;" class="list">
