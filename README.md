@@ -3,8 +3,8 @@
 <head>
  <meta charset="UTF-8">
  <style>
- .list{padding-left: 5px; padding-right: 5px; border:3px outset silver; border-radius: 20px/20px;}
- #only{padding-left: 2px; padding-right: 2px; border:none;}
+ .list{padding-left: 5px; padding-right: 5px; margin:1px; border:3px outset silver; border-radius: 20px/20px;}
+ #only{padding-left: 2px; padding-right: 2px; margin:1px; border:none;}
  #red{color:red;}
  #black{color:black;}
  #transparent{background-color:transparent;}
@@ -18,7 +18,7 @@
 
 
 <tr style="height=50px;" class="list">
-<td class="list" id="only">
+<td class="list" id="only" id="transparent">
   <a href="https://m.post.naver.com/viewer/postView.nhn?volumeNo=18073606&memberNo=8626508&vType=VERTICAL" target="_blank"> </a></td>
 <td class="list">
   <a href="http://tr.game.onstove.com/index.asp" target="_blank" id="black"><b>테일즈런너(TalesRunner)</b></a></td>
