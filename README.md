@@ -3,7 +3,7 @@
 <head>
  <meta charset="UTF-8">
  <style>
- .list{padding-left: 5px; padding-right: 5px; border:3px dotted indigo; border-radius: 20px/20px;}
+ .list{padding-left: 5px; padding-right: 5px; border:3px outset silver; border-radius: 20px/20px;}
  #only{padding-left: 2px; padding-right: 2px; border:none;}
  #red{color:red;}
  #black{color:black;}
