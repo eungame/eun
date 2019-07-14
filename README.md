@@ -25,7 +25,7 @@
 <td class="list">
   <a href="https://leagueoflegends.co.kr/" target="_blank" id="black"><b>리그오브레전드(League of Legends)</b></a></td>
 <td class="list">
-  <a href="https://www.youtube.com/watch?v=NpyrcXYPiM4&list=PLw12emVrmPC_GWfSMc9JUkDJDZBDPaklF" target="_blank" id="black"><b>오투잼 음악 리스트(Songs of O2jam)</b></font></a></td>
+  <a href="https://www.youtube.com/watch?v=NpyrcXYPiM4&list=PLw12emVrmPC_GWfSMc9JUkDJDZBDPaklF" target="_blank" id="black"><b>오투잼 음악 리스트(Songs of O2jam)</b></a></td>
 <td class="list">
   <a href="https://www.sectiong.net/107" target="_blank" id="black"><b>싱글오투잼(오투매니아) 파일공유</b></a></td>
 </tr>
