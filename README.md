@@ -96,10 +96,6 @@ table{border-spacing: 10px 10px;}
 </td>
 
 
-</body>
-
-
-</html>
 
 
 
