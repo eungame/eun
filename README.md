@@ -4,7 +4,7 @@
  <meta charset="UTF-8">
  <style>
 table{border-spacing: 10px;}
- .list{padding-left: 5px; padding-right: 5px; margin:10px; border:1px outset white; border-radius: 20px/20px;}
+ .list{padding-left: 5px; padding-right: 5px; margin:10px; border:1px outset orangered; border-radius: 20px/20px;}
  #only{padding-left: 2px; padding-right: 2px; margin:10px; border:3px outset transparent; border-radius: 20px/20px; background-color:transparent;}
  #red{color:red;}
  #black{color:black;}
