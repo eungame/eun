@@ -3,8 +3,8 @@
 <head>
  <meta charset="UTF-8">
  <style>
- .list{padding-left: 5px; padding-right: 5px; margin:1px; border:3px outset silver; border-radius: 20px/20px;}
- #only{padding-left: 2px; padding-right: 2px; margin:1px; border:none;}
+ .list{padding-left: 5px; padding-right: 5px; margin:10px; border:3px outset silver; border-radius: 20px/20px;}
+ #only{padding-left: 2px; padding-right: 2px; margin:10px; border:none;}
  #red{color:red;}
  #black{color:black;}
  #transparent{background-color:transparent;}
