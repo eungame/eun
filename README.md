@@ -3,7 +3,7 @@
 <head>
  <meta charset="UTF-8">
  <style>
-table{border-spacing: 5px;}
+table{border-spacing: 10px;}
  .list{padding-left: 5px; padding-right: 5px; margin:10px; border:1px outset white; border-radius: 20px/20px;}
  #only{padding-left: 2px; padding-right: 2px; margin:10px; border:3px outset transparent; border-radius: 20px/20px; background-color:transparent;}
  #red{color:red;}
@@ -51,5 +51,5 @@ table{border-spacing: 5px;}
 <td class="list" id="white" id="tomatobackground"><b>컴퓨터 프로그래밍 교육사이트 링크(computer programming education site go)▶▶</b></td>
 <td colspan="4" class="list" id="tomatobackground">
  <ol>
-<li><a href="https://wikidocs.net/book/1657" target="_blank" align="left" id="white" id="textshadow">(파이썬)python 배우기![클릭(click)]</a></li>
+<li id="white" id="textshadow"><a href="https://wikidocs.net/book/1657" target="_blank" align="left" >(파이썬)python 배우기![클릭(click)]</a></li>
 <li><a href="https://www.youtube.com/user/egoing2" target="_blank" align="left" id="white" id="textshadow">생활코딩 유튜브채널 바로가기(computer programming education videos)[클릭(click)]</a></li>
