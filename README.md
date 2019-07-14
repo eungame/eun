@@ -46,7 +46,7 @@
 
 
 <tr style="height=50px;" class="list">
-<td class="list" id="black" id="tomatobackground"><b><id="white">컴퓨터 프로그래밍 교육사이트 링크(computer programming education site go)▶▶</b></td>
+<td class="list" id="white" id="tomatobackground"><b>컴퓨터 프로그래밍 교육사이트 링크(computer programming education site go)▶▶</b></td>
 <td colspan="4" class="list" id="tomatobackground">
  <ol>
 <li><a href="https://wikidocs.net/book/1657" target="_blank" align="left" id="red">(파이썬)python 배우기![클릭(click)]</a></li>
