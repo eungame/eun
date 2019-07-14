@@ -3,6 +3,7 @@
 <head>
  <meta charset="UTF-8">
  <style>
+table{border-spacing: 5px;}
  .list{padding-left: 5px; padding-right: 5px; margin:10px; border:1px outset white; border-radius: 20px/20px;}
  #only{padding-left: 2px; padding-right: 2px; margin:10px; border:3px outset transparent; border-radius: 20px/20px; background-color:transparent;}
  #red{color:red;}
@@ -17,7 +18,7 @@
 <body>
 <body background="배경수정.png">
 <br>
-<table width="800" height="1000" align="center" cellpadding="20" cellspacing="10" style="border-spacing: 5px;">
+<table width="800" height="1000" align="center" cellpadding="20" cellspacing="10">
 
 
 <tr style="height=50px;" class="list" id="transparent">
