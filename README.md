@@ -13,7 +13,7 @@
 
 <body>
 <body background="배경수정.png">
-
+<br>
 <table width="800" height="1000" align="center" cellpadding="20" cellspacing="10">
 
 
