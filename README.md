@@ -20,7 +20,7 @@
 
 
 <tr style="height=50px;" class="list" id="transparent">
-<td class="list" id="only" id="transparent">
+<td id="only" id="transparent">
   <a href="https://m.post.naver.com/viewer/postView.nhn?volumeNo=18073606&memberNo=8626508&vType=VERTICAL" target="_blank" id="transparent"> </a></td>
 <td class="list" id="tomatobackground">
   <a href="http://tr.game.onstove.com/index.asp" target="_blank" id="white"><b>테일즈런너(TalesRunner)</b></a></td>
