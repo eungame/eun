@@ -32,7 +32,7 @@
 
 
 
-<tr height="400" id="transparent">
+<tr height="400" id="transparent" class="list">
   <td class="list" id="transparent"> 목차 생성중 </td>
  <td id="transparent" colspan="4" class="list"><b>최근 본인의 플레이 영상 업뎃!<br>
 <iframe width="600" height="300" src="https://www.youtube.com/embed/PQveqCcqvLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -44,7 +44,7 @@
 
 
 
-<tr style="height=50px;">
+<tr style="height=50px;" class="list">
 <td class="list" id="black"><b>컴퓨터 프로그래밍 교육사이트 링크(computer programming education site go)▶▶</b></td>
 <td colspan="4" class="list">
 <li><a href="https://wikidocs.net/book/1657" target="_blank" align="left" id="red">(파이썬)python 배우기![클릭(click)]</a></li>
